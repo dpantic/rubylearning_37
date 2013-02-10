@@ -1,0 +1,97 @@
+# Logfile created on 2013-02-09 22:17:10 +0100 by logger.rb/31641
+I, [2013-02-09T22:21:02.212902 #17035]  INFO -- : Reading file text.txt
+I, [2013-02-09T22:21:02.221820 #17035]  INFO -- : word_count called returning 0
+I, [2013-02-09T22:21:02.221897 #17035]  INFO -- : sentence_count called returning 0
+I, [2013-02-09T22:21:27.107536 #17041]  INFO -- : Reading file /Users/deki/projects/RL/6wk/text.txt
+I, [2013-02-09T22:21:27.108475 #17041]  INFO -- : word_count called returning 0
+I, [2013-02-09T22:21:27.108520 #17041]  INFO -- : sentence_count called returning 0
+I, [2013-02-09T22:22:55.236395 #17056]  INFO -- : Reading file /Users/deki/projects/RL/6wk/text.txt
+I, [2013-02-09T22:22:55.237064 #17056]  INFO -- : word_count called returning 2
+I, [2013-02-09T22:22:55.237102 #17056]  INFO -- : sentence_count called returning 2
+I, [2013-02-09T22:22:55.237136 #17056]  INFO -- : sentence_count called returning 2
+I, [2013-02-09T22:22:55.237185 #17056]  INFO -- : paragraph_count called returning 1
+I, [2013-02-09T22:22:55.237218 #17056]  INFO -- : Statistics collected for /Users/deki/projects/RL/6wk/text.txt
+I, [2013-02-09T22:22:55.237277 #17056]  INFO -- : character_count called returning 13
+I, [2013-02-09T22:22:55.237352 #17056]  INFO -- : character_count_without_spaces called returning 11
+I, [2013-02-09T22:22:55.237398 #17056]  INFO -- : line_count called returning 1
+I, [2013-02-09T22:22:55.237457 #17056]  INFO -- : word_count called returning 2
+I, [2013-02-09T22:22:55.237499 #17056]  INFO -- : sentence_count called returning 2
+I, [2013-02-09T22:22:55.237540 #17056]  INFO -- : paragraph_count called returning 1
+I, [2013-02-09T22:22:55.237583 #17056]  INFO -- : avg_num_words_per_sentence called returning 1
+I, [2013-02-09T22:22:55.237648 #17056]  INFO -- : avg_num_sentences_per_paragraph called returning 2
+I, [2013-02-09T22:22:55.237694 #17056]  INFO -- : eat_monkeys called returning nil
+I, [2013-02-09T22:42:26.908903 #17234]  INFO -- : Reading file /Users/deki/projects/RL/6wk/text.txt
+I, [2013-02-09T22:42:26.932791 #17234]  INFO -- : word_count called returning 2
+I, [2013-02-09T22:42:26.932876 #17234]  INFO -- : sentence_count called returning 2
+I, [2013-02-09T22:42:26.932911 #17234]  INFO -- : sentence_count called returning 2
+I, [2013-02-09T22:42:26.932960 #17234]  INFO -- : paragraph_count called returning 1
+I, [2013-02-09T22:42:26.932993 #17234]  INFO -- : Statistics collected for /Users/deki/projects/RL/6wk/text.txt
+I, [2013-02-09T22:42:26.933026 #17234]  INFO -- : character_count called returning 13
+I, [2013-02-09T22:42:26.933101 #17234]  INFO -- : character_count_without_spaces called returning 11
+I, [2013-02-09T22:42:26.933147 #17234]  INFO -- : line_count called returning 1
+I, [2013-02-09T22:42:26.933236 #17234]  INFO -- : word_count called returning 2
+I, [2013-02-09T22:42:26.933295 #17234]  INFO -- : sentence_count called returning 2
+I, [2013-02-09T22:42:26.933480 #17234]  INFO -- : paragraph_count called returning 1
+I, [2013-02-09T22:42:26.933583 #17234]  INFO -- : avg_num_words_per_sentence called returning 1
+I, [2013-02-09T22:42:26.933745 #17234]  INFO -- : avg_num_sentences_per_paragraph called returning 2
+I, [2013-02-09T22:42:26.933844 #17234]  INFO -- : eat_monkeys called returning nil
+I, [2013-02-09T22:51:11.368932 #17315]  INFO -- : Reading file /Users/deki/projects/RL/6wk/text.txt
+I, [2013-02-09T22:51:11.431945 #17315]  INFO -- : word_count called returning 2
+I, [2013-02-09T22:51:11.432042 #17315]  INFO -- : sentence_count called returning 2
+I, [2013-02-09T22:51:11.432077 #17315]  INFO -- : sentence_count called returning 2
+I, [2013-02-09T22:51:11.432111 #17315]  INFO -- : paragraph_count called returning 1
+I, [2013-02-09T22:51:11.432157 #17315]  INFO -- : Statistics collected for /Users/deki/projects/RL/6wk/text.txt
+I, [2013-02-09T22:51:11.432191 #17315]  INFO -- : character_count called returning 13
+I, [2013-02-09T22:51:11.432255 #17315]  INFO -- : character_count_without_spaces called returning 11
+I, [2013-02-09T22:51:11.432322 #17315]  INFO -- : line_count called returning 1
+I, [2013-02-09T22:51:11.432365 #17315]  INFO -- : word_count called returning 2
+I, [2013-02-09T22:51:11.432433 #17315]  INFO -- : sentence_count called returning 2
+I, [2013-02-09T22:51:11.432476 #17315]  INFO -- : paragraph_count called returning 1
+I, [2013-02-09T22:51:11.432541 #17315]  INFO -- : avg_num_words_per_sentence called returning 1
+I, [2013-02-09T22:51:11.432586 #17315]  INFO -- : avg_num_sentences_per_paragraph called returning 2
+I, [2013-02-09T22:51:11.432633 #17315]  INFO -- : eat_monkeys called returning nil
+I, [2013-02-09T22:57:45.539400 #17374]  INFO -- : Reading file /Users/deki/projects/RL/6wk/text.txt
+I, [2013-02-09T22:57:45.568024 #17374]  INFO -- : word_count called returning 2
+I, [2013-02-09T22:57:45.568118 #17374]  INFO -- : sentence_count called returning 2
+I, [2013-02-09T22:57:45.568155 #17374]  INFO -- : sentence_count called returning 2
+I, [2013-02-09T22:57:45.568190 #17374]  INFO -- : paragraph_count called returning 1
+I, [2013-02-09T22:57:45.568234 #17374]  INFO -- : Statistics collected for /Users/deki/projects/RL/6wk/text.txt
+I, [2013-02-09T22:57:45.568268 #17374]  INFO -- : character_count called returning 13
+I, [2013-02-09T22:57:45.568331 #17374]  INFO -- : character_count_without_spaces called returning 11
+I, [2013-02-09T22:57:45.568398 #17374]  INFO -- : line_count called returning 1
+I, [2013-02-09T22:57:45.568504 #17374]  INFO -- : word_count called returning 2
+I, [2013-02-09T22:57:45.568664 #17374]  INFO -- : sentence_count called returning 2
+I, [2013-02-09T22:57:45.568806 #17374]  INFO -- : paragraph_count called returning 1
+I, [2013-02-09T22:57:45.569246 #17374]  INFO -- : avg_num_words_per_sentence called returning 1
+I, [2013-02-09T22:57:45.569412 #17374]  INFO -- : avg_num_sentences_per_paragraph called returning 2
+I, [2013-02-09T22:57:45.569561 #17374]  INFO -- : eat_monkeys called returning nil
+I, [2013-02-09T23:22:23.224976 #17623]  INFO -- : Reading file /Users/deki/projects/RL/6wk/ttt.txt
+I, [2013-02-09T23:22:23.272663 #17623]  INFO -- : word_count called returning 2
+I, [2013-02-09T23:22:23.272770 #17623]  INFO -- : sentence_count called returning 2
+I, [2013-02-09T23:22:23.272805 #17623]  INFO -- : sentence_count called returning 2
+I, [2013-02-09T23:22:23.272845 #17623]  INFO -- : paragraph_count called returning 1
+I, [2013-02-09T23:22:23.272892 #17623]  INFO -- : Statistics collected for /Users/deki/projects/RL/6wk/ttt.txt
+I, [2013-02-09T23:22:23.272928 #17623]  INFO -- : character_count called returning 13
+I, [2013-02-09T23:22:23.274443 #17623]  INFO -- : character_count_without_spaces called returning 11
+I, [2013-02-09T23:22:23.274614 #17623]  INFO -- : line_count called returning 1
+I, [2013-02-09T23:22:23.274660 #17623]  INFO -- : word_count called returning 2
+I, [2013-02-09T23:22:23.275256 #17623]  INFO -- : sentence_count called returning 2
+I, [2013-02-09T23:22:23.275422 #17623]  INFO -- : paragraph_count called returning 1
+I, [2013-02-09T23:22:23.275605 #17623]  INFO -- : avg_num_words_per_sentence called returning 1
+I, [2013-02-09T23:22:23.275695 #17623]  INFO -- : avg_num_sentences_per_paragraph called returning 2
+I, [2013-02-09T23:22:23.275834 #17623]  INFO -- : eat_monkeys called returning nil
+I, [2013-02-09T23:23:58.604790 #17640]  INFO -- : Reading file /Users/deki/projects/RL/6wk/ttt.txt
+I, [2013-02-09T23:23:58.605481 #17640]  INFO -- : word_count called returning 2
+I, [2013-02-09T23:23:58.605519 #17640]  INFO -- : sentence_count called returning 2
+I, [2013-02-09T23:23:58.605565 #17640]  INFO -- : sentence_count called returning 2
+I, [2013-02-09T23:23:58.605597 #17640]  INFO -- : paragraph_count called returning 1
+I, [2013-02-09T23:23:58.605628 #17640]  INFO -- : Statistics collected for /Users/deki/projects/RL/6wk/ttt.txt
+I, [2013-02-09T23:23:58.605661 #17640]  INFO -- : character_count called returning 13
+I, [2013-02-09T23:23:58.605729 #17640]  INFO -- : character_count_without_spaces called returning 11
+I, [2013-02-09T23:23:58.605775 #17640]  INFO -- : line_count called returning 1
+I, [2013-02-09T23:23:58.605836 #17640]  INFO -- : word_count called returning 2
+I, [2013-02-09T23:23:58.606422 #17640]  INFO -- : sentence_count called returning 2
+I, [2013-02-09T23:23:58.606643 #17640]  INFO -- : paragraph_count called returning 1
+I, [2013-02-09T23:23:58.606726 #17640]  INFO -- : avg_num_words_per_sentence called returning 1
+I, [2013-02-09T23:23:58.606876 #17640]  INFO -- : avg_num_sentences_per_paragraph called returning 2
+I, [2013-02-09T23:23:58.607032 #17640]  INFO -- : eat_monkeys called returning nil
